@@ -5,7 +5,7 @@ There are three main tasks:
 ● Implement the forward kinematics function.  
 ● Implement the inverse kinematics function.  
 ● Using your IK implementation in the Transporter Network block insertion  
-task.
+task.  
 We will use the PyBullet simulator for this homework. The robot arm used in
 this homework is ur5, which is a 6-degree-of-freedom robot arm (containing 6
 revolute joints).
