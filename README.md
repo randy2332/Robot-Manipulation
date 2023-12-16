@@ -1,10 +1,10 @@
 # Hw4
 
 You are required to implement the forward kinematics (FK) and inverse kinematics (IK) functions for a 6-degree-of-freedom robot arm. Besides, you need to answer questions about the robot manipulation framework developed in this homework.
-There are three main tasks:
-● Implement the forward kinematics function.
-● Implement the inverse kinematics function.
-● Using your IK implementation in the Transporter Network block insertion
+There are three main tasks:  
+● Implement the forward kinematics function.  
+● Implement the inverse kinematics function.  
+● Using your IK implementation in the Transporter Network block insertion  
 task.
 We will use the PyBullet simulator for this homework. The robot arm used in
 this homework is ur5, which is a 6-degree-of-freedom robot arm (containing 6
