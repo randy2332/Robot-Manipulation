@@ -1,6 +1,6 @@
-# Hw4
 
-You are required to implement the forward kinematics (FK) and inverse kinematics (IK) functions for a 6-degree-of-freedom robot arm. Besides, you need to answer questions about the robot manipulation framework developed in this homework.
+
+We are required to implement the forward kinematics (FK) and inverse kinematics (IK) functions for a 6-degree-of-freedom robot arm. Besides, you need to answer questions about the robot manipulation framework developed in this homework.
 There are three main tasks:  
 ● Implement the forward kinematics function.  
 ● Implement the inverse kinematics function.  
